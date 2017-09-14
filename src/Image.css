@@ -1,0 +1,15 @@
+/* canvas,
+img {
+  display: block;
+  margin: 1em auto;
+  border: 1px solid black;
+}
+canvas {
+  background: url(lotsalasers.jpg);
+} */
+
+canvas {
+  display: block;
+  margin: 1em auto;
+  border: 1px solid black;
+}
